@@ -71,18 +71,3 @@ p {
 .explore-btn:hover {
     background-color: #ad081b; /* Darker red on hover */
 }
-
-/* Mobile Responsiveness (Optional but recommended) */
-@media (max-width: 768px) {
-    .hero {
-        flex-direction: column;
-    }
-    .hero-image {
-        width: 100%;
-        height: 50%;
-    }
-    .hero-content {
-        width: 100%;
-        height: 50%;
-    }
-}
